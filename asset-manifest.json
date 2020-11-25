@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/scroll-animation/static/css/main.96f39ad2.chunk.css",
+    "main.js": "/scroll-animation/static/js/main.23ecc9c5.chunk.js",
+    "main.js.map": "/scroll-animation/static/js/main.23ecc9c5.chunk.js.map",
+    "runtime-main.js": "/scroll-animation/static/js/runtime-main.3f1073cd.js",
+    "runtime-main.js.map": "/scroll-animation/static/js/runtime-main.3f1073cd.js.map",
+    "static/js/2.1581cfbf.chunk.js": "/scroll-animation/static/js/2.1581cfbf.chunk.js",
+    "static/js/2.1581cfbf.chunk.js.map": "/scroll-animation/static/js/2.1581cfbf.chunk.js.map",
+    "static/js/3.bed9182a.chunk.js": "/scroll-animation/static/js/3.bed9182a.chunk.js",
+    "static/js/3.bed9182a.chunk.js.map": "/scroll-animation/static/js/3.bed9182a.chunk.js.map",
+    "index.html": "/scroll-animation/index.html",
+    "static/css/main.96f39ad2.chunk.css.map": "/scroll-animation/static/css/main.96f39ad2.chunk.css.map",
+    "static/js/2.1581cfbf.chunk.js.LICENSE.txt": "/scroll-animation/static/js/2.1581cfbf.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/scroll-animation/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f1073cd.js",
+    "static/js/2.1581cfbf.chunk.js",
+    "static/css/main.96f39ad2.chunk.css",
+    "static/js/main.23ecc9c5.chunk.js"
+  ]
+}
